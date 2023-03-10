@@ -7,4 +7,6 @@ a = np.array([1, 2, 3])
 
 # prints the type
 print(type(a))
+
+print ("Hello World")
  
